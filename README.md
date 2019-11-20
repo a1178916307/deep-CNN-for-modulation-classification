@@ -1,4 +1,6 @@
-# Deep-CNN-for-modulation-classification
+# Deep-CNN-for-Modulation-Classification
+
+## File Description
 
 1. `RadioML 2016.10a (i)-(iii).zip` provides the dataset in MATLAB version.
 2. The `convolution kernes at 1st and 4th layers` gives all the visualized convolution kernels.
