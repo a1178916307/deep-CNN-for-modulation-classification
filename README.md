@@ -7,4 +7,4 @@
 3. The `deep CNN.mat` is the covergent deep CNN model trained with proposed data augmentation method.
 4. The `test.m` is used to evaluate the performance of deep CNN and should be run in MATLAB 2019a.
 
-P.S. The manuscript has been submitted to the *Multidimensional Systems and Signal Processing*, and full source code will be published after the paper has been accepted.
+P.S. The manuscript has been submitted to the *Multidimensional Systems and Signal Processing*, and full source code will be released after the paper has been accepted.
